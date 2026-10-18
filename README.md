@@ -34,3 +34,9 @@ Power BI Desktop • Data cleaning • Data visualization • Dashboard design �
 ## Credit
 Guided project followed from this tutorial: https://youtu.be/pixlHHe_lNQ
 
+
+
+## Screenshots
+
+
+![Dashboard](powerbi_dashboard.png)
